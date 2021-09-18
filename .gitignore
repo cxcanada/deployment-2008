@@ -1,0 +1,13 @@
+# files lists here will not be uploaded
+
+# node modules
+node_modules
+
+# VS Code Files
+.vscode
+
+# Parcel Files. After running npx parcel build .\src\index.html, dist folder will be built for temps and caches. dist as distribution
+dist
+
+# OS Files
+.DS_Store
